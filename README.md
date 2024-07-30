@@ -65,5 +65,5 @@ urllib.request.urlopen(url, data=None, [timeout, ]*, cafile=None, capath=None, c
 <br>There are TTS tools available for nearly every digital device.
 
 <p><h2 align="center">PROJECT OUTPUT </h2>
-<br>
-![](ProjectOutput.png)
+<be>
+![ProjectOutput](ProjectOutput.png)
