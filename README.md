@@ -30,7 +30,7 @@ user.
 
 <br>Beautiful Soup is a Python package for parsing HTML and XML documents (including having malformed markup, i.e. non-closed tags, so named after tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping. 
 
-<br>It is available for Python 2.7 and Python 3.
+<br>It is available for Python 2.7, Python 3 and Python 3+.
 
 <br>ii)	urllib.request :
 
@@ -51,7 +51,7 @@ urllib.request.urlopen(url, data=None, [timeout, ]*, cafile=None, capath=None, c
 
 <br>This lets you to convert written text to audio. The voices available will depend on what your system has installed. You can get a list of available voices on your machine by pulling the voices property from the engine. Note that the voices you have available on your computer might be different from someone else's machine. There is a default voice set so you are not required to pick a voice. This is only if you want to change it from the default.
 
-<p><h3 align="center">------ Mechanisms used ------: </h3>
+<p><h3 align="center">------ Mechanisms used ------ </h3>
 <br><h2 align="center">i) WEB CRAWLING </h2>
 <br>Web scraping, often called web crawling or web spidering, or “programmatically going over a collection of web pages and extracting data,” is a powerful tool for working with data on the web.
 
