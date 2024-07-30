@@ -63,3 +63,7 @@ urllib.request.urlopen(url, data=None, [timeout, ]*, cafile=None, capath=None, c
 <br>TTS can help people who struggle with reading.
 
 <br>There are TTS tools available for nearly every digital device.
+
+<p><h2 align="center">PROJECT OUTPUT </h2>
+<br>
+![PROJECT-OUTPUT!](ProjectOutput.png)
