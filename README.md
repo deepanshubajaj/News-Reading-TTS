@@ -66,4 +66,4 @@ urllib.request.urlopen(url, data=None, [timeout, ]*, cafile=None, capath=None, c
 
 <p><h2 align="center">PROJECT OUTPUT </h2>
 <br>
-![ProjectOutput](https://github.com/user-attachments/assets/8c0db153-efed-4a77-a358-a496cbd921d9)
+![ProjectOutput](https://github.com/user-attachments/assets/fd666474-a38a-4c82-ade1-6889822dae16)
