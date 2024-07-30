@@ -66,4 +66,4 @@ urllib.request.urlopen(url, data=None, [timeout, ]*, cafile=None, capath=None, c
 
 <p><h2 align="center">PROJECT OUTPUT </h2>
 <br>
-![ProjectOutput](ProjectOutput.png)
+![alt text](ProjectOutput.png)
